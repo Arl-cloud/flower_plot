@@ -1,7 +1,6 @@
 # flower_plot
 
 R shiny application of the built-in R dataset "iris".
-
 Contains interative plot of petal length and width of different species, and some sommary statistics.
 
 
